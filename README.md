@@ -9,3 +9,5 @@ I use following overlays out of the main Gentoo sync tree;
 * steam-overlay 
 
 My motto is **"Keep it simple!"** :-)
+
+My public Key ID to share with world: **84B2770AF478A795** (rsa4096)
