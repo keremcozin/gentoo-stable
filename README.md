@@ -12,6 +12,8 @@ My motto is **"Keep it simple!"** :-)
 
 My public Key ID to share with world: **84B2770AF478A795** (rsa4096)
 
+![Screenshot of terminal](https://github.com/keremcozin/gentoo-stable/blob/main/screenshot.png)
+
 If you intend to use the binary packages I've created by **quickpkg** these are my native host and compiler options here ${CFLAGS} && ${CXXFLAGS};
 
 * -march=nehalem --param=l1-cache-line-size=64 --param=l1-cache-size=32 --param=l2-cache-size=8192
